@@ -14,13 +14,13 @@ The smart contract relies on [PSP22 implementation](https://github.com/Cardinal-
 ### Clone the Repository
 
 ```Bash
-git clone https://https://github.com/inkdevhub/amm_pool.git
+git clone https://github.com/inkdevhub/dutch_auction.git
 ```
 ### Build
 
 ```Bash
-cd amm_pool
-cargo contract build -release
+cd adutch_auction
+cargo contract build --release
 ```
 
 ### Test
