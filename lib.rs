@@ -85,7 +85,7 @@ mod dutch_auction {
     }
 
     impl DutchAuction {
-        /// Constructor that initializes the contract storrage.
+        /// Constructor that initializes the contract storage.
         ///
         /// Caller would be the auction_owner
         #[ink(constructor)]
